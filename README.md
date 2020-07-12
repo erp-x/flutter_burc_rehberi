@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# flutter_burc_rehberi
-=======
+
 # flutter_burc_rehberi
 
 Burç Rehberi Uygulaması
